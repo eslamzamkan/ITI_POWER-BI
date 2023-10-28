@@ -1,0 +1,6 @@
+1-what is the sum of gross income of each branch
+2- the is Total price including tax and payment by each branch
+3-what is unit price of product line
+4-for each branch what is total tax of 5% of each gender
+5-what is the Total price including tax in march
+6-what is the 5% tax fee for customer buying,Cost of goods sold,Total price including tax in march by product line
