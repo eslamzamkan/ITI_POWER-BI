@@ -1,0 +1,7 @@
+
+Power BI: https://powerbi.microsoft.com/en-us/
+Pricing: https://powerbi.microsoft.com/en-us/pricing/
+Power BI Community: https://community.powerbi.com/
+Day1 Demo: https://www.microsoft.com/en-eg/store/top-paid/games/xbox
+Lab Task 1: https://en.wikipedia.org/wiki/UEFA_European_Championship
+Lab Task 2: https://www.kaggle.com/aungpyaeap/supermarket-sales?select=supermarket_sales+-+Sheet1.csv
